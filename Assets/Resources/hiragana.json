@@ -1,0 +1,529 @@
+{
+	"monographs":{
+		"groups":[
+			{
+				"id": "M-01",
+				"name": "alpha",
+				"characters": [
+					{
+						"id": "M-01-01",
+						"roman": "a",
+						"character": "あ",
+						"vowel": "a"
+					},
+					{
+						"id": "M-01-02",
+						"roman": "e",
+						"character": "え",
+						"vowel": "e"
+					},
+					{
+						"id": "M-01-03",
+						"roman": "i",
+						"character": "い",
+						"vowel": "i"
+					},
+					{
+						"id": "M-01-04",
+						"roman": "o",
+						"character": "お",
+						"vowel": "o"
+					},
+					{
+						"id": "M-01-05",
+						"roman": "u",
+						"character": "う",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-02",
+				"name": "k",
+				"characters": [
+					{
+						"id": "M-02-01",
+						"roman": "ka",
+						"character": "か",
+						"vowel": "a"
+					},
+					{
+						"id": "M-02-02",
+						"roman": "ke",
+						"character": "け",
+						"vowel": "e"
+					},
+					{
+						"id": "M-02-03",
+						"roman": "ki",
+						"character": "き",
+						"vowel": "i"
+					},
+					{
+						"id": "M-02-04",
+						"roman": "ko",
+						"character": "こ",
+						"vowel": "o"
+					},
+					{
+						"id": "M-02-05",
+						"roman": "ku",
+						"character": "く",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-03",
+				"name": "s",
+				"characters": [
+					{
+						"id": "M-03-01",
+						"roman": "sa",
+						"character": "さ",
+						"vowel": "a"
+					},
+					{
+						"id": "M-03-02",
+						"roman": "se",
+						"character": "せ",
+						"vowel": "e"
+					},
+					{
+						"id": "M-03-03",
+						"roman": "shi",
+						"character": "し",
+						"vowel": "i"
+					},
+					{
+						"id": "M-03-04",
+						"roman": "so",
+						"character": "そ",
+						"vowel": "o"
+					},
+					{
+						"id": "M-03-05",
+						"roman": "su",
+						"character": "す",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-04",
+				"name": "t",
+				"characters": [
+					{
+						"id": "M-04-01",
+						"roman": "ta",
+						"character": "た",
+						"vowel": "a"
+					},
+					{
+						"id": "M-04-02",
+						"roman": "te",
+						"character": "て",
+						"vowel": "e"
+					},
+					{
+						"id": "M-04-03",
+						"roman": "chi",
+						"character": "ち",
+						"vowel": "i"
+					},
+					{
+						"id": "M-04-04",
+						"roman": "to",
+						"character": "と",
+						"vowel": "o"
+					},
+					{
+						"id": "M-04-05",
+						"roman": "tsu",
+						"character": "つ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-05",
+				"name": "n",
+				"characters": [
+					{
+						"id": "M-05-01",
+						"roman": "na",
+						"character": "な",
+						"vowel": "a"
+					},
+					{
+						"id": "M-05-02",
+						"roman": "ne",
+						"character": "ね",
+						"vowel": "e"
+					},
+					{
+						"id": "M-05-03",
+						"roman": "ni",
+						"character": "に",
+						"vowel": "i"
+					},
+					{
+						"id": "M-05-04",
+						"roman": "no",
+						"character": "の",
+						"vowel": "o"
+					},
+					{
+						"id": "M-05-05",
+						"roman": "nu",
+						"character": "ぬ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-06",
+				"name": "h",
+				"characters": [
+					{
+						"id": "M-06-01",
+						"roman": "ha",
+						"character": "は",
+						"vowel": "a"
+					},
+					{
+						"id": "M-06-02",
+						"roman": "he",
+						"character": "へ",
+						"vowel": "e"
+					},
+					{
+						"id": "M-06-03",
+						"roman": "hi",
+						"character": "ひ",
+						"vowel": "i"
+					},
+					{
+						"id": "M-06-04",
+						"roman": "ho",
+						"character": "ほ",
+						"vowel": "o"
+					},
+					{
+						"id": "M-06-05",
+						"roman": "fu",
+						"character": "ふ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-07",
+				"name": "m",
+				"characters": [
+					{
+						"id": "M-07-01",
+						"roman": "ma",
+						"character": "ま",
+						"vowel": "a"
+					},
+					{
+						"id": "M-07-02",
+						"roman": "me",
+						"character": "め",
+						"vowel": "e"
+					},
+					{
+						"id": "M-07-03",
+						"roman": "mi",
+						"character": "み",
+						"vowel": "i"
+					},
+					{
+						"id": "M-07-04",
+						"roman": "mo",
+						"character": "も",
+						"vowel": "o"
+					},
+					{
+						"id": "M-07-05",
+						"roman": "mu",
+						"character": "む",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-08",
+				"name": "y",
+				"characters": [
+					{
+						"id": "M-08-01",
+						"roman": "ya",
+						"character": "や",
+						"vowel": "a"
+					},
+					{
+						"id": "M-08-02",
+						"roman": "yo",
+						"character": "よ",
+						"vowel": "o"
+					},
+					{
+						"id": "M-08-03",
+						"roman": "yu",
+						"character": "ゆ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-09",
+				"name": "r",
+				"characters": [
+					{
+						"id": "M-09-01",
+						"roman": "ra",
+						"character": "ら",
+						"vowel": "a"
+					},
+					{
+						"id": "M-09-02",
+						"roman": "re",
+						"character": "れ",
+						"vowel": "e"
+					},
+					{
+						"id": "M-09-03",
+						"roman": "ri",
+						"character": "り",
+						"vowel": "i"
+					},
+					{
+						"id": "M-09-04",
+						"roman": "ro",
+						"character": "ろ",
+						"vowel": "o"
+					},
+					{
+						"id": "M-09-05",
+						"roman": "ru",
+						"character": "る",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "M-10",
+				"name": "w",
+				"characters": [
+					{
+						"id": "M-10-01",
+						"roman": "wa",
+						"character": "わ",
+						"vowel": "a"
+					},
+					{
+						"id": "M-10-02",
+						"roman": "wo",
+						"character": "を",
+						"vowel": "o"
+					}
+				]
+			}
+		],
+		"wildcards":[
+			{
+				"id": "M-00-01",
+				"roman": "n",
+				"character": "ん"
+			}
+		]
+	},
+	"diacritics":{
+		"groups":[
+			{
+				"id": "D-01",
+				"name": "g",
+				"characters": [
+					{
+						"id": "D-01-01",
+						"roman": "ga",
+						"character": "が",
+						"vowel": "a"
+					},
+					{
+						"id": "D-01-02",
+						"roman": "ge",
+						"character": "げ",
+						"vowel": "e"
+					},
+					{
+						"id": "D-01-03",
+						"roman": "gi",
+						"character": "ぎ",
+						"vowel": "i"
+					},
+					{
+						"id": "D-01-04",
+						"roman": "go",
+						"character": "ご",
+						"vowel": "o"
+					},
+					{
+						"id": "D-01-05",
+						"roman": "gu",
+						"character": "ぐ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "D-02",
+				"name": "z",
+				"characters": [
+					{
+						"id": "D-02-01",
+						"roman": "za",
+						"character": "ざ",
+						"vowel": "a"
+					},
+					{
+						"id": "D-02-02",
+						"roman": "ze",
+						"character": "ぜ",
+						"vowel": "e"
+					},
+					{
+						"id": "D-02-03",
+						"roman": "ji",
+						"character": "じ",
+						"vowel": "i"
+					},
+					{
+						"id": "D-02-04",
+						"roman": "zo",
+						"character": "ぞ",
+						"vowel": "o"
+					},
+					{
+						"id": "D-02-05",
+						"roman": "zu",
+						"character": "ず",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "D-03",
+				"name": "d",
+				"characters": [
+					{
+						"id": "D-03-01",
+						"roman": "da",
+						"character": "だ",
+						"vowel": "a"
+					},
+					{
+						"id": "D-03-02",
+						"roman": "de",
+						"character": "で",
+						"vowel": "e"
+					},
+					{
+						"id": "D-03-03",
+						"roman": "dji",
+						"character": "ぢ",
+						"vowel": "i"
+					},
+					{
+						"id": "D-03-04",
+						"roman": "do",
+						"character": "ど",
+						"vowel": "o"
+					},
+					{
+						"id": "D-03-05",
+						"roman": "dzu",
+						"character": "づ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "D-04",
+				"name": "b",
+				"characters": [
+					{
+						"id": "D-04-01",
+						"roman": "ba",
+						"character": "ば",
+						"vowel": "a"
+					},
+					{
+						"id": "D-04-02",
+						"roman": "be",
+						"character": "べ",
+						"vowel": "e"
+					},
+					{
+						"id": "D-04-03",
+						"roman": "bi",
+						"character": "び",
+						"vowel": "i"
+					},
+					{
+						"id": "D-04-04",
+						"roman": "bo",
+						"character": "ぼ",
+						"vowel": "o"
+					},
+					{
+						"id": "D-04-05",
+						"roman": "bu",
+						"character": "ぶ",
+						"vowel": "u"
+					}
+				]
+			},
+			{
+				"id": "D-05",
+				"name": "p",
+				"characters": [
+					{
+						"id": "D-05-01",
+						"roman": "pa",
+						"character": "ぱ",
+						"vowel": "a"
+					},
+					{
+						"id": "D-05-02",
+						"roman": "pe",
+						"character": "ぺ",
+						"vowel": "e"
+					},
+					{
+						"id": "D-05-03",
+						"roman": "pi",
+						"character": "ぴ",
+						"vowel": "i"
+					},
+					{
+						"id": "D-05-04",
+						"roman": "po",
+						"character": "ぽ",
+						"vowel": "o"
+					},
+					{
+						"id": "D-05-05",
+						"roman": "pu",
+						"character": "ぷ",
+						"vowel": "u"
+					}
+				]
+			}
+		],
+		"wildcards":[
+		]
+	}
+}
